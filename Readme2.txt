@@ -1,1 +1,1 @@
-Takie tam coœ.
+Takie tam coœ. Mo¿na tu sobie pisaæ w ramach l¿ejszej próby. Zostanie skasowane razem z innymi klasami testowymi.
